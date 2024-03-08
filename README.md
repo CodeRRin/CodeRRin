@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeRRin
 - 👀 I’m interested in anything relate to image processing and patern rec
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on anything relate to mechine learning..
+- 💞️ I’m looking to collaborate on anything relate to machine learning..
 - 📫 How to reach me
 - discord id 
 Rinn#9234
