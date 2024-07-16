@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeRRin
+- 👋 Hi, I’m Mrinmoy Mondal
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on anything relate to machine learning..
 - 📫 How to reach me
